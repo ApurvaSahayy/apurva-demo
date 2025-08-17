@@ -1,3 +1,3 @@
 # apurva-demo
-This is my fir Git Repository
+This is my first Git Repository
 
